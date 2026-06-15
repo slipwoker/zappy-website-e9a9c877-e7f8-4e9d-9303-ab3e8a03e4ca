@@ -74,37 +74,40 @@ https://example.com/vehicle-equipment
 https://example.com/storage-mezzanines
 גלריות אחסון תעשייתיות (Mezzanines) להכפלת שטח האחסון במחסן. פתרונות אחסון למשקל כבד, תכנון מודולרי והתאמה אישית למפעלים ולוגיסטיקה.
 
-### Product Detail
+### פרטי המוצר
 https://example.com/product/:slug
 פרטי המוצר - מוצגים פתרונות אחסון ותצוגה
 
-### Category
+### מוצרים
 https://example.com/category/:slug
 מוצרים - מוצגים פתרונות אחסון ותצוגה
 
-### Cart
+### עגלת קניות
 https://example.com/cart
 עגלת הקניות שלך
 
-### Checkout
+### תשלום
 https://example.com/checkout
 תשלום
 
-### Login
+### התחברות
 https://example.com/login
 התחברות לקוחות
 
-### Account
+### החשבון שלי
 https://example.com/account
 החשבון שלי
 
-### Order Success
+### ההזמנה התקבלה!
 https://example.com/order-success
 תודה על ההזמנה
 
-### Products
+### מוצרים
 https://example.com/products
 המוצרים שלנו - מוצגים פתרונות אחסון ותצוגה
+
+### Page
+https://example.com/menu-group-1781513730069
 
 ## Legal & Policy
 

@@ -1102,6 +1102,50 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/products" />
   </url>
   <url>
+    <loc>https://example.com/menu-group-1781513730069</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781513730069" />
+  </url>
+  <url>
+    <loc>https://example.com/ar/menu-group-1781513730069</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781513730069" />
+  </url>
+  <url>
+    <loc>https://example.com/ru/menu-group-1781513730069</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781513730069" />
+  </url>
+  <url>
+    <loc>https://example.com/en/menu-group-1781513730069</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1781513730069" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781513730069" />
+  </url>
+  <url>
     <loc>https://example.com/privacy</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
