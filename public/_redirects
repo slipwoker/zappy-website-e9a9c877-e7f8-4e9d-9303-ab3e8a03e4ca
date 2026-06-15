@@ -1,5 +1,5 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-06-15T09:09:44.557Z
+# Generated: 2026-06-15T09:13:27.251Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
@@ -17,8 +17,6 @@
 /cold-room-freezer-shelving-tonon  /cold-room-freezer-shelving-tonon.html  200!
 /dalmine-ls-modular-shelving  /dalmine-ls-modular-shelving.html  200!
 /vlm-vertical-storage  /vlm-vertical-storage.html  200!
-/vehicle-equipment  /vehicle-equipment.html  200!
-/storage-mezzanines  /storage-mezzanines.html  200!
 /privacy  /privacy.html  200!
 /accessibility  /accessibility.html  200!
 /terms  /terms.html  200!
@@ -30,6 +28,8 @@
 /return-policy  /return-policy.html  200!
 /products  /products.html  200!
 /menu-group-1781513730069  /menu-group-1781513730069.html  200!
+/vehicle-equipment  /vehicle-equipment.html  200!
+/storage-mezzanines  /storage-mezzanines.html  200!
 
 # Language slug rewrites for SEO
 /ar  /ar/index.html  200!
@@ -47,8 +47,6 @@
 /ar/cold-room-freezer-shelving-tonon  /ar/cold-room-freezer-shelving-tonon.html  200!
 /ar/dalmine-ls-modular-shelving  /ar/dalmine-ls-modular-shelving.html  200!
 /ar/vlm-vertical-storage  /ar/vlm-vertical-storage.html  200!
-/ar/vehicle-equipment  /ar/vehicle-equipment.html  200!
-/ar/storage-mezzanines  /ar/storage-mezzanines.html  200!
 /ar/privacy  /ar/privacy.html  200!
 /ar/accessibility  /ar/accessibility.html  200!
 /ar/terms  /ar/terms.html  200!
@@ -59,6 +57,8 @@
 /ar/order-success  /ar/order-success.html  200!
 /ar/return-policy  /ar/return-policy.html  200!
 /ar/products  /ar/products.html  200!
+/ar/vehicle-equipment  /ar/vehicle-equipment.html  200!
+/ar/storage-mezzanines  /ar/storage-mezzanines.html  200!
 /ar  /ar/index.html  200!
 /ru  /ru/index.html  200!
 /ru/services  /ru/services.html  200!
@@ -75,8 +75,6 @@
 /ru/cold-room-freezer-shelving-tonon  /ru/cold-room-freezer-shelving-tonon.html  200!
 /ru/dalmine-ls-modular-shelving  /ru/dalmine-ls-modular-shelving.html  200!
 /ru/vlm-vertical-storage  /ru/vlm-vertical-storage.html  200!
-/ru/vehicle-equipment  /ru/vehicle-equipment.html  200!
-/ru/storage-mezzanines  /ru/storage-mezzanines.html  200!
 /ru/privacy  /ru/privacy.html  200!
 /ru/accessibility  /ru/accessibility.html  200!
 /ru/terms  /ru/terms.html  200!
@@ -87,6 +85,8 @@
 /ru/order-success  /ru/order-success.html  200!
 /ru/return-policy  /ru/return-policy.html  200!
 /ru/products  /ru/products.html  200!
+/ru/vehicle-equipment  /ru/vehicle-equipment.html  200!
+/ru/storage-mezzanines  /ru/storage-mezzanines.html  200!
 /ru  /ru/index.html  200!
 /en  /en/index.html  200!
 /en/services  /en/services.html  200!
@@ -103,8 +103,6 @@
 /en/cold-room-freezer-shelving-tonon  /en/cold-room-freezer-shelving-tonon.html  200!
 /en/dalmine-ls-modular-shelving  /en/dalmine-ls-modular-shelving.html  200!
 /en/vlm-vertical-storage  /en/vlm-vertical-storage.html  200!
-/en/vehicle-equipment  /en/vehicle-equipment.html  200!
-/en/storage-mezzanines  /en/storage-mezzanines.html  200!
 /en/privacy  /en/privacy.html  200!
 /en/accessibility  /en/accessibility.html  200!
 /en/terms  /en/terms.html  200!
@@ -115,6 +113,8 @@
 /en/order-success  /en/order-success.html  200!
 /en/return-policy  /en/return-policy.html  200!
 /en/products  /en/products.html  200!
+/en/vehicle-equipment  /en/vehicle-equipment.html  200!
+/en/storage-mezzanines  /en/storage-mezzanines.html  200!
 /en  /en/index.html  200!
 
 # Legal pages - redirect old .html URLs to friendly URLs

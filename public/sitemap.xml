@@ -662,94 +662,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vlm-vertical-storage" />
   </url>
   <url>
-    <loc>https://example.com/vehicle-equipment</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vehicle-equipment" />
-  </url>
-  <url>
-    <loc>https://example.com/ar/vehicle-equipment</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vehicle-equipment" />
-  </url>
-  <url>
-    <loc>https://example.com/ru/vehicle-equipment</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vehicle-equipment" />
-  </url>
-  <url>
-    <loc>https://example.com/en/vehicle-equipment</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/vehicle-equipment" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vehicle-equipment" />
-  </url>
-  <url>
-    <loc>https://example.com/storage-mezzanines</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/storage-mezzanines" />
-  </url>
-  <url>
-    <loc>https://example.com/ar/storage-mezzanines</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/storage-mezzanines" />
-  </url>
-  <url>
-    <loc>https://example.com/ru/storage-mezzanines</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/storage-mezzanines" />
-  </url>
-  <url>
-    <loc>https://example.com/en/storage-mezzanines</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/storage-mezzanines" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/storage-mezzanines" />
-  </url>
-  <url>
     <loc>https://example.com/product/:slug</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1144,6 +1056,94 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/menu-group-1781513730069" />
     <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/menu-group-1781513730069" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/menu-group-1781513730069" />
+  </url>
+  <url>
+    <loc>https://example.com/vehicle-equipment</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vehicle-equipment" />
+  </url>
+  <url>
+    <loc>https://example.com/ar/vehicle-equipment</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vehicle-equipment" />
+  </url>
+  <url>
+    <loc>https://example.com/ru/vehicle-equipment</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vehicle-equipment" />
+  </url>
+  <url>
+    <loc>https://example.com/en/vehicle-equipment</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/vehicle-equipment" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/vehicle-equipment" />
+  </url>
+  <url>
+    <loc>https://example.com/storage-mezzanines</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/storage-mezzanines" />
+  </url>
+  <url>
+    <loc>https://example.com/ar/storage-mezzanines</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/storage-mezzanines" />
+  </url>
+  <url>
+    <loc>https://example.com/ru/storage-mezzanines</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/storage-mezzanines" />
+  </url>
+  <url>
+    <loc>https://example.com/en/storage-mezzanines</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/ar/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/storage-mezzanines" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/storage-mezzanines" />
   </url>
   <url>
     <loc>https://example.com/privacy</loc>
