@@ -1,0 +1,32 @@
+# Render static site routing configuration
+# Generated: 2026-06-15T08:50:29.147Z
+# This file configures URL rewrite rules for SPA routing
+
+# Routes are applied when no static file exists at the requested path
+# More specific routes should be listed before catch-all routes
+
+routes:
+  - type: rewrite
+    source: /product/*
+    destination: /product.html
+  - type: rewrite
+    source: /category/*
+    destination: /category.html
+  - type: rewrite
+    source: /ar/product/*
+    destination: /ar/product/index.html
+  - type: rewrite
+    source: /ar/category/*
+    destination: /ar/category/index.html
+  - type: rewrite
+    source: /ru/product/*
+    destination: /ru/product/index.html
+  - type: rewrite
+    source: /ru/category/*
+    destination: /ru/category/index.html
+  - type: rewrite
+    source: /en/product/*
+    destination: /en/product/index.html
+  - type: rewrite
+    source: /en/category/*
+    destination: /en/category/index.html
