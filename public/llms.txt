@@ -62,10 +62,6 @@ https://example.com/cold-room-freezer-shelving-tonon
 https://example.com/dalmine-ls-modular-shelving
 מערכת מדפים מודולרית בתצורת קיט מבית Dalmine LS איטליה. פתרון אידיאלי לחנויות, רשתות DIY ומחסנים. משלים את מגוון פתרונות האחסון והמידוף התעשייתי שלנו.
 
-### מערכת אחסון ורטיקלי VLM | פתרונות אחסון תעשייתי
-https://example.com/vlm-vertical-storage
-מערכת אחסון ורטיקלי VLM - מדפי אחסון תעשייתי למפעלים המאפשרים חיסכון של עד 90% בשטח. פתרונות אחסון למשקל כבד, ייעול תהליכי ליקוט וניהול מלאי חכם.
-
 ### פרטי המוצר
 https://example.com/product/:slug
 פרטי המוצר - מוצגים פתרונות אחסון ותצוגה
@@ -100,6 +96,10 @@ https://example.com/products
 
 ### Page
 https://example.com/menu-group-1781513730069
+
+### מערכת אחסון ורטיקלי VLM | פתרונות אחסון תעשייתי
+https://example.com/vlm-vertical-storage
+מערכת אחסון ורטיקלי VLM - מדפי אחסון תעשייתי למפעלים המאפשרים חיסכון של עד 90% בשטח. פתרונות אחסון למשקל כבד, ייעול תהליכי ליקוט וניהול מלאי חכם.
 
 ### זיווד רכבים | פתרונות אחסון וסדנה ניידת לרכבים מסחריים
 https://example.com/vehicle-equipment
